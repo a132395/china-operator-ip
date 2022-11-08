@@ -1,20 +1,20 @@
 Hongkong
-16384192
+256
 
 Hongkong6
-23989860
+65536
 
 Singapore
-6898192
+0
 
 Singapore6
 281474976710656
 
 TW
-33209344
+0
 
 TW6
-154565420
+65536
 
 US
 4294967296
@@ -23,62 +23,62 @@ US6
 281474976710656
 
 cernet
-17181700
+0
 
 cernet6
-672792581
+327681
 
 china
-302446150
+1024
 
 china6
 281474976710656
 
 chinanet
-129214464
+0
 
 chinanet6
-268708320
+0
 
 cmcc
-37436160
+0
 
 cmcc6
-276569104
+0
 
 cstnet
-744960
+0
 
 cstnet6
-1179648
+0
 
 drpeng
-353024
+0
 
 drpeng6
-131072
+0
 
 googlecn
-8704
+0
 
 googlecn6
-65568
+0
 
 japan
-166643456
+98304
 
 japan6
-508766435
+1908992
 
 tietong
-20310272
+0
 
 tietong6
 0
 
 unicom
-73452544
+256
 
 unicom6
-33280289
+0
 
